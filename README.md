@@ -26,7 +26,7 @@
   <a href = "mailto:lucascorradin16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-rodrigo-corradin-santiago-0496291b1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-   ![Snake animation] (https://github.com/devanonymous16)
+   ![Snake animation] (https://github.com/devanonymous16/devanonymous16/blob/output/github-contribution-grid-snake.svg)
    
 </div>
 
