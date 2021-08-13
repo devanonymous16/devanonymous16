@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Lucas Corradin!
  <div>
   <a href="https://github.com/devanonymous16">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devanonymous16&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanonymous16&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devanonymous16&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanonymous16&layout=compact&langs_count=7&react"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
